@@ -1,7 +1,7 @@
 > API .Net Core 2.1 avec OData
 # Filtrage, pagination et recherche avec OData
 
-> Visible OData n'est pas encore disponible en core 3.0 (13/12/2019)
+> Visiblement OData n'est pas encore disponible en core 3.0 (13/12/2019)
 
 ## Création du projet
 
